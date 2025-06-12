@@ -2,7 +2,6 @@
   <div class="max-w-7xl mx-auto py-20 px-4 md:px-8">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
       
-      <!-- Left Column -->
       <div>
         <h2 class="text-4xl font-bold text-[#141110] border-l-4 border-[#ce5a16] pl-4 mb-2">CONTACT ME</h2>
         <p class="text-gray-600 text-lg mb-10">Get in touch with me</p>
@@ -12,10 +11,10 @@
           <p><strong>Email:</strong> <a href="mailto:nellychepkem2015@gmail.com" class="text-[#ce5a16] hover:underline">nellychepkem2015@gmail.com</a></p>
           <p><strong>Phone:</strong> <a href="tel:+254706553702" class="text-[#ce5a16] hover:underline">+254 706 553 702</a></p>
           <p><strong>Website:</strong> <a href="https://github.com/Nellybii" target="_blank" class="text-[#ce5a16] hover:underline">www.github.com/Nellybii</a></p>
+          <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nelly-chepkemoi-6b06951a0/" target="_blank" class="text-[#ce5a16] hover:underline">https://www.linkedin.com/in/nelly-chepkemoi-6b06951a0/</a></p>
         </div>
       </div>
 
-      <!-- Right Column: Form -->
       <form class="space-y-6 w-full">
         <div>
           <label for="name" class="block mb-1 font-medium text-[#141110]">Your Name</label>
