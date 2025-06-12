@@ -54,7 +54,7 @@ export default {
           title: 'Portfolio Website',
           description: 'A personal portfolio built with NuxtJS showcasing my projects, skills, and experience.',
           image: 'https://images.unsplash.com/photo-1508780709619-79562169bc64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600',
-          link: 'https://my-portfolio-ten-red-64.vercel.app/'
+          link: 'https://myportfolio-git-main-nellybiis-projects.vercel.app/'
         },
         {
           title: 'Furniture Garden App',
