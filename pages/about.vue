@@ -13,7 +13,7 @@
           I am Nelly Chepkemoi and a passionate Full Stack Developer.
         </h1>
         <p class="text-lg text-gray-800 leading-relaxed">
-          Hi! My name is Nelly Chepkemoi. I’m a Junior DevSecOps Engineer and Full-Stack Developer with
+          Hi! My name is Nelly Chepkemoi. I’m a Full-Stack Developer and DevSecOps Engineer with
           experience in building web and AI-integrated applications. I’ve worked on projects like journaling
           platforms, e-commerce apps, and job listing systems using technologies such as Python, Node.js,
           JavaScript, React, Flask, and Django.
