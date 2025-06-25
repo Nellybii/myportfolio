@@ -43,7 +43,7 @@
             LinkedIn
           </a>
           <a
-            href="https://twitter.com/NellyChepkemoi"
+            href="https://drive.google.com/file/d/1zr6wns-PBtnjIcghD7KvLglmhpz-cpk-/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             class="block text-center px-4 py-2 border bg-[#ce5a16] text-[#0e1010] rounded-md transition-colors duration-300 hover:bg-[#353b5dd1] hover:text-white"
