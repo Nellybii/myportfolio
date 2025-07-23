@@ -57,10 +57,10 @@ export default {
           link: 'https://myportfolio-git-main-nellybiis-projects.vercel.app/'
         },
         {
-          title: 'Furniture Garden App',
-          description: 'An e-commerce platform for furniture shopping built with Flask and ReactJS.',
+          title: 'Hero Furniture Store',
+          description: 'An e-commerce platform for furniture shopping built with NodeJS and NextJS.',
           image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600',
-          link: 'https://furniture-garden-frontend.vercel.app/'
+          link: 'https://hero-furniture-store-yi4e.vercel.app/'
         },
         {
           title: 'Job Listing App',
